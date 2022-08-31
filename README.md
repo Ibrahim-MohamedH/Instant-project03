@@ -1,4 +1,4 @@
-# Instant-project02
+# Instant-project03
 
 Third web project in Instant's Diploma using HTML and CSS.
 
